@@ -1,6 +1,23 @@
 .interiors__slider-dots {
-  width: 171px;
+  width: 71px;
   display: flex;
   justify-content: space-between;
-  z-index: 1;
+  align-items: center;
+  /* position: absolute;
+  bottom: 29px;
+  left: 510px; */
+  margin: 0 auto;
 }
+/* 
+@media screen and (max-width:1439px) {
+  .interiors__slider-dots {
+    left: 47%;
+  }
+}
+
+@media screen and (max-width:550px) {
+  .interiors__slider-dots {
+    bottom: 19px;
+    left: 45%;
+  }
+} */
