@@ -1,0 +1,6 @@
+.interiors__slider-dots {
+  width: 171px;
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+}

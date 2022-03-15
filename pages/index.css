@@ -4,5 +4,7 @@
 @import url(../blocks/interiors/interiors.css);
 @import url(../blocks/interiors/__title/interiors__title.css);
 @import url(../blocks/interiors/__list/interiors__list.css);
-@import url(../blocks/interiors/__item/interiors__item.css);
+@import url(../blocks/interiors/__main-item/interiors__main-item.css);
 @import url(../blocks/interiors/__photo/interiors__photo.css);
+@import url(../blocks/interiors/__slider-dots/interiors__slider-dots.css);
+@import url(../blocks/interiors/__slider-dot/interiors__slider-dot.css);
