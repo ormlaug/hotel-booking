@@ -1,6 +1,13 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__nav-link/header__nav-link.css);
+@import url(../blocks/header/__nav-links/header__nav-links.css);
+
 @import url(../blocks/interiors/interiors.css);
 @import url(../blocks/interiors/__title/interiors__title.css);
 @import url(../blocks/interiors/__list/interiors__list.css);
