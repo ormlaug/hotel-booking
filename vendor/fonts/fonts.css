@@ -24,3 +24,21 @@
   src: url("./Inter/Inter-Medium.woff2") format("woff2"),
        url("./Inter/Inter-Medium.woff") format("woff");
 }
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./Montserrat/Montserrat-SemiBold.woff2") format("woff2"),
+       url("./Montserrat/Montserrat-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./Montserrat/Montserrat-Bold.woff2") format("woff2"),
+       url("./Montserrat/Montserrat-Bold.woff") format("woff");
+}
