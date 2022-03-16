@@ -1,17 +1,10 @@
 .button_place_header {
   width: 136px;
-  height: 47px;
-}
-
-@media screen and (max-width:1023px) {
-  .button_place_header {
-    width: 120px;
-  }
+  padding: 14px 16px;
 }
 
 @media screen and (max-width: 939px) {
   .button_place_header {
     align-self: center;
-    width: 136px;
   }
 }
