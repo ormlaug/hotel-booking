@@ -4,11 +4,18 @@
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_place/_header/button_place_header.css);
+@import url(../blocks/button/_place/_rent/button_place_rent.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 @import url(../blocks/header/__nav-links/header__nav-links.css);
+
+@import url(../blocks/rent/rent.css);
+@import url(../blocks/rent/__image/rent__image.css);
+@import url(../blocks/rent/__images/rent__images.css);
+@import url(../blocks/rent/__subtitle/rent__subtitle.css);
+@import url(../blocks/rent/__title/rent__title.css);
 
 @import url(../blocks/interiors/interiors.css);
 @import url(../blocks/interiors/__title/interiors__title.css);
