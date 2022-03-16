@@ -1,23 +1,13 @@
 .interiors__slider-dots {
+  margin: -38px auto 0;
   width: 71px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* position: absolute;
-  bottom: 29px;
-  left: 510px; */
-  margin: 0 auto;
-}
-/* 
-@media screen and (max-width:1439px) {
-  .interiors__slider-dots {
-    left: 47%;
-  }
 }
 
 @media screen and (max-width:550px) {
-  .interiors__slider-dots {
-    bottom: 19px;
-    left: 45%;
+.interiors__slider-dots {
+  display: none;
   }
-} */
+}
