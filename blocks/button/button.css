@@ -1,8 +1,8 @@
-.header__button {
+.button {
   background-color: #0E1734;
   border-radius: 4px;
-  max-width: 136px;
-  max-height: 47px;
+  width: 136px;
+  height: 47px;
   border: none; 
   outline: none;
 
@@ -15,6 +15,13 @@
   transition: opacity .5s ease-in;
 }
 
-.header__button:hover {
+.button:hover {
   opacity: 80%;
+}
+
+@media screen and (max-width:1079px) {
+  .button {
+    width: 120px;
+    font-size: 14px;
+  }
 }
