@@ -1,0 +1,11 @@
+.subtitle_place_card {
+  margin-top: 16px;
+  max-width: 384px;
+}
+
+@media screen and (max-width:750px) {
+  .subtitle_place_card {
+    margin: 16px 10px 0;
+    font-size: 24px;
+  }
+}

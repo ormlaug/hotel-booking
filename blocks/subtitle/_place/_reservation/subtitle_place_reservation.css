@@ -1,0 +1,13 @@
+.subtitle_place_reservation {
+  margin-top: 24px;
+  max-width: 588px;
+  text-align: center;
+}
+
+@media screen and (max-width:750px) {
+  .subtitle_place_reservation {
+    margin: 10px;
+    max-width: 403px;
+    font-size: 24px;
+  }
+}

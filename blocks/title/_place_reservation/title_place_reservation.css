@@ -1,0 +1,7 @@
+@media screen and (max-width:750px) {
+  .title_place_reservation {
+    margin: 0 10px;
+    max-width: 250px;
+    text-align: center;
+  }
+}
