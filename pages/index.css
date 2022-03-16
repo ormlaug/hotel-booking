@@ -15,3 +15,13 @@
 @import url(../blocks/interiors/__photo/interiors__photo.css);
 @import url(../blocks/interiors/__slider-dots/interiors__slider-dots.css);
 @import url(../blocks/interiors/__slider-dot/interiors__slider-dot.css);
+
+@import url(../blocks/reservation/reservation.css);
+@import url(../blocks/reservation/__title/reservation__title.css);
+@import url(../blocks/reservation/__subtitle/reservation__subtitle.css);
+@import url(../blocks/reservation/__list/reservation__list.css);
+@import url(../blocks/reservation/__item/reservation__item.css);
+@import url(../blocks/reservation/__card-title/reservation__card-title.css);
+@import url(../blocks/reservation/__card-subtitle/reservation__card-subtitle.css);
+@import url(../blocks/reservation/__card-photo/reservation__card-photo.css);
+@import url(../blocks/reservation/__card-link/reservation__card-link.css);
