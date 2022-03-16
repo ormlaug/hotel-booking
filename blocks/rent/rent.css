@@ -1,7 +1,6 @@
 .rent {
   max-width: 1199px;
   margin: 0 auto;
-  padding: 0 110px;
   display: grid;
   grid-template-columns: minmax(min-content, 587px) min-content;
   gap: 30px;
