@@ -1,0 +1,12 @@
+.rent__subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+    font-size: 18px;
+  line-height: 27px;
+  color: #848FAC;
+
+  margin: 0;
+  padding-bottom: 59px;
+  max-width: 485px;
+}

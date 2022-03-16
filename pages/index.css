@@ -12,8 +12,8 @@
 @import url(../blocks/header/__nav-links/header__nav-links.css);
 
 @import url(../blocks/rent/rent.css);
+@import url(../blocks/rent/__subtitle/rent__subtitle.css);
 @import url(../blocks/rent/__image/rent__image.css);
-@import url(../blocks/rent/__images/rent__images.css);
 @import url(../blocks/rent/__subtitle/rent__subtitle.css);
 @import url(../blocks/rent/__title/rent__title.css);
 
