@@ -1,0 +1,5 @@
+.reservation__item {
+  min-height: 713px;
+  display: flex;
+  flex-direction: column;
+}

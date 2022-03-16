@@ -21,6 +21,7 @@
 @import url(../blocks/reservation/reservation.css);
 @import url(../blocks/reservation/__title/reservation__title.css);
 @import url(../blocks/reservation/__subtitle/reservation__subtitle.css);
+@import url(../blocks/button/_place/_reservation/button_place_reservation.css);
 @import url(../blocks/reservation/__list/reservation__list.css);
 @import url(../blocks/reservation/__item/reservation__item.css);
 @import url(../blocks/reservation/__card-title/reservation__card-title.css);

@@ -1,0 +1,12 @@
+.reservation__card-subtitle {
+  margin: 0;
+  margin-top: 16px;
+  padding: 0;
+  max-width: 384px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #848FAC;
+}
