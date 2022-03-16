@@ -3,3 +3,9 @@
   padding-top: 80px;
   padding-bottom: 96px;
 }
+
+@media screen and (max-width: 939px) {
+  .rent__image {
+    max-width: 100%;
+  }
+}

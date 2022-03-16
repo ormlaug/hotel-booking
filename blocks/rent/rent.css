@@ -1,7 +1,19 @@
 .rent {
   max-width: 1199px;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: minmax(min-content, 587px) min-content;
+  display: flex;
   gap: 30px;
 }
+
+@media screen and (max-width: 1219px) {
+  .rent {
+    margin: 0 10px;
+  }
+}
+
+@media screen and (max-width: 939px) {
+  .rent {
+    flex-direction: column;
+  }
+}
+
