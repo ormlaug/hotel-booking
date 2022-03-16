@@ -1,0 +1,9 @@
+.slider_place_interiors {
+  margin: -38px auto 0;
+}
+
+@media screen and (max-width:550px) {
+  .slider_place_interiors {
+    display: none;
+    }
+  }

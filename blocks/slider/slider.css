@@ -1,0 +1,6 @@
+.slider {
+  width: 71px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

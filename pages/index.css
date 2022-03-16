@@ -24,8 +24,9 @@
 @import url(../blocks/interiors/__list/interiors__list.css);
 @import url(../blocks/interiors/__main-item/interiors__main-item.css);
 @import url(../blocks/interiors/__photo/interiors__photo.css);
-@import url(../blocks/interiors/__slider-dots/interiors__slider-dots.css);
-@import url(../blocks/interiors/__slider-dot/interiors__slider-dot.css);
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/place/_interiors/slider_place_interiors.css);
+@import url(../blocks/slider/__dot/slider__dot.css);
 
 @import url(../blocks/reservation/reservation.css);
 @import url(../blocks/title/_place_reservation/title_place_reservation.css);
@@ -37,3 +38,8 @@
 @import url(../blocks/subtitle/_place/_card/subtitle_place_card.css);
 @import url(../blocks/reservation/__card-photo/reservation__card-photo.css);
 @import url(../blocks/reservation/__card-link/reservation__card-link.css);
+
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__author-photo/reviews__author-photo.css);
+@import url(../blocks/subtitle/_place/_reviews/subtitle_place_reviews.css);
+@import url(../blocks/reviews/__copyright/reviews__copyright.css);

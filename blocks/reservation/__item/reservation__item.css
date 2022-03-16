@@ -1,9 +1,8 @@
 .reservation__item {
-  max-height: 100%;
   min-height: 713px;
   display: flex;
   flex-direction: column;
-  position: relative;
+  justify-content: flex-start;
 }
 
 @media screen and (max-width:1100px) {
