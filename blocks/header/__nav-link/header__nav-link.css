@@ -6,4 +6,9 @@
   font-size: 16px;
   line-height: 19px;
   color: #192252;
+  transition: opacity .5s ease-in;
+}
+
+.header__nav-link:hover {
+  opacity: 80%;
 }
