@@ -22,3 +22,9 @@
     padding-bottom: 25px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .header__nav-links {
+    gap: 15px;
+  }
+}
