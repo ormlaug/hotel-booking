@@ -1,3 +1,5 @@
 .reservation__card-photo {
   display: block;
+  max-width: 100%;
 }
+

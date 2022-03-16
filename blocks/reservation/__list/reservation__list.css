@@ -7,3 +7,18 @@
   justify-content: space-between;
   column-gap: 24px;
 }
+
+@media screen and (max-width:1280px) {
+  .reservation__list {
+    margin: 88px 15px 0;
+    column-gap: 15px;
+  }
+}
+
+@media screen and (max-width:750px) {
+  .reservation__list {
+    margin: 28px 0 0;
+    row-gap: 24px;
+    flex-direction: column;
+  }
+}

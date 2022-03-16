@@ -9,3 +9,10 @@
   text-align: center;
   color: #192252;
 }
+
+@media screen and (max-width:750px) {
+  .reservation__title {
+    margin: 0 10px;
+    max-width: 250px;
+  }
+}

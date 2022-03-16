@@ -5,3 +5,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+@media screen and (max-width:750px) {
+  .reservation {
+    margin: 20px auto 0;
+  }
+}

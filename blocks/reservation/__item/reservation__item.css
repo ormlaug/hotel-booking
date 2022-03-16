@@ -1,5 +1,25 @@
 .reservation__item {
+  max-height: 100%;
   min-height: 713px;
   display: flex;
   flex-direction: column;
+  position: relative;
+}
+
+@media screen and (max-width:1100px) {
+  .reservation__item {
+    min-height: 670px;
+  }
+}
+
+@media screen and (max-width:900px) {
+  .reservation__item {
+    min-height: 630px;
+  }
+}
+
+@media screen and (max-width:750px) {
+  .reservation__item {
+    position: static;
+  }
 }
