@@ -1,0 +1,11 @@
+.button_place_header {
+  width: 136px;
+  height: 47px;
+}
+
+@media screen and (max-width:1023px) {
+  .button {
+    width: 120px;
+  }
+}
+

@@ -8,3 +8,17 @@
   padding-top: 19px;
   padding-bottom: 10px;
 }
+
+@media screen and (max-width:1079px) {
+  .header__nav-links {
+    gap: 30px;
+  }
+}
+
+@media screen and (max-width: 939px) {
+  .header__nav-links {
+    align-self: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}

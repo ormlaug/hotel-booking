@@ -1,8 +1,6 @@
 .button {
   background-color: #0E1734;
   border-radius: 4px;
-  width: 136px;
-  height: 47px;
   border: none; 
   outline: none;
 
@@ -17,11 +15,4 @@
 
 .button:hover {
   opacity: 80%;
-}
-
-@media screen and (max-width:1079px) {
-  .button {
-    width: 120px;
-    font-size: 14px;
-  }
 }

@@ -10,3 +10,9 @@
   line-height: 39px;
   color: #192252;
 }
+
+@media screen and (max-width: 939px) {
+  .header__logo {
+    align-self: center;
+  }
+}
