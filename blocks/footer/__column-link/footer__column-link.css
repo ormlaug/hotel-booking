@@ -3,4 +3,9 @@
   padding: 0;
   text-decoration: none;
   color: #D9DBDE;
+  transition: opacity .5s ease-in;
+}
+
+.footer__column-link:hover {
+  opacity: 80%;
 }
