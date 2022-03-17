@@ -3,3 +3,11 @@
   max-width: 793px;
   text-align: center;
 }
+
+@media screen and (max-width:750px) {
+  .subtitle_place_reviews {
+    margin: 20px 10px 0;
+    max-width: 403px;
+    font-size: 21px;
+  }
+}

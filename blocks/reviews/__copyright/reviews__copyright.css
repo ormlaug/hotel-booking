@@ -9,3 +9,9 @@
   text-align: center;
   color: #192252;
 }
+
+@media screen and (max-width:750px) {
+  .reviews__copyright {
+    margin: 20px 0;
+  }
+}

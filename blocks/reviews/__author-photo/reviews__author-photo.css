@@ -1,3 +1,15 @@
 .reviews__author-photo {
   margin-top: 62px;
 }
+
+@media screen and (max-width:1023px) {
+  .reviews__author-photo {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width:750px) {
+  .reviews__author-photo {
+    margin-top: 20px;
+  }
+}
