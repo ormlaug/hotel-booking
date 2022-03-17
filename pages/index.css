@@ -10,7 +10,7 @@
 @import url(../blocks/button/_place/_rent/button_place_rent.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/logo/_place/_header/logo_place_header.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 @import url(../blocks/header/__nav-links/header__nav-links.css);
 
