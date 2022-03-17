@@ -6,5 +6,6 @@
 @media screen and (max-width: 939px) {
   .title_place_benefit {
     padding: 0;
+    text-align: center;
   }
 }

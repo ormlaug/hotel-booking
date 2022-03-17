@@ -1,13 +1,6 @@
 .logo_place_header {
   max-width: 228px;
   padding-top: 9px;
-  align-self: flex-end;
   font-weight: 600;
   color: #192252;
-}
-
-@media screen and (max-width: 939px) {
-  .header__logo {
-    align-self: center;
-  }
 }
