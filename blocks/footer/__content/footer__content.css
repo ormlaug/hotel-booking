@@ -1,4 +1,5 @@
 .footer__content {
+  padding-top: 6px;
   min-width: 592px;
   display: flex;
   justify-content: space-between;
