@@ -2,3 +2,9 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 1219px) {
+  .about__subscribe {
+    margin: 0 10px;
+  }
+}

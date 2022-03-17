@@ -7,6 +7,7 @@
   @media screen and (max-width: 939px) {
     .title_place_about {
       padding-top: 20px;
+      max-width: 585px;
     }
   }
   

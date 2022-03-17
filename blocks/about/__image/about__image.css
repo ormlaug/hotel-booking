@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 939px) {
+@media screen and (max-width: 404px) {
   .about__image {
     max-width: 100%;
   }
