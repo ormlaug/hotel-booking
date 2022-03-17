@@ -1,13 +1,11 @@
 .rent__image {
   max-width: 588px;
-  padding-top: 80px;
-  padding-bottom: 96px;
+  padding: 0;
+  padding-bottom: 16px;
 }
 
 @media screen and (max-width: 939px) {
   .rent__image {
     max-width: 100%;
-    padding-top: 50px;
-    padding-bottom: 25px;
   }
 }
