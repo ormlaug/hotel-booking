@@ -1,0 +1,10 @@
+.about__image {
+  max-width: 384px;
+  padding: 0;
+}
+
+@media screen and (max-width: 939px) {
+  .about__image {
+    max-width: 100%;
+  }
+}

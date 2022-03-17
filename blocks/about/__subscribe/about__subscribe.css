@@ -1,0 +1,4 @@
+.about__subscribe {
+  display: flex;
+  flex-direction: column;
+}

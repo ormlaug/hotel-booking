@@ -1,0 +1,12 @@
+.title_place_about {
+  max-width: 690px;
+  letter-spacing: -0.01em;
+  padding-top: 105px;
+  }
+  
+  @media screen and (max-width: 939px) {
+    .title_place_about {
+      padding-top: 20px;
+    }
+  }
+  
