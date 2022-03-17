@@ -1,0 +1,10 @@
+.benefit__image {
+  max-width: 384px;
+  padding: 0;
+}
+
+@media screen and (max-width: 404px) {
+  .benefit__image {
+    max-width: 100%;
+  }
+}

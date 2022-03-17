@@ -8,8 +8,8 @@
 
 @media screen and (max-width: 939px) {
   .about {
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     gap: 20px;
     padding: 40px 0;
   }

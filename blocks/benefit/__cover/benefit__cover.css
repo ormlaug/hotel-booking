@@ -1,0 +1,10 @@
+.benefit__cover {
+  max-width: 1094px;
+  padding-right: 106px;
+}
+
+@media screen and (max-width: 1279px) {
+  .benefit__cover {
+    padding-right: 0;
+  }
+}

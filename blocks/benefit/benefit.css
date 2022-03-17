@@ -1,0 +1,12 @@
+.benefit {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 0;
+}
+
+@media screen and (max-width: 939px) {
+  .benefit {
+    padding-bottom: 0;
+    padding-top: 40px;
+  }
+}

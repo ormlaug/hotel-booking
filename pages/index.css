@@ -10,7 +10,7 @@
 @import url(../blocks/button/_place/_rent/button_place_rent.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/logo/_place/_header/logo_place_header.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 @import url(../blocks/header/__nav-links/header__nav-links.css);
 
@@ -19,6 +19,7 @@
 @import url(../blocks/rent/__image/rent__image.css);
 @import url(../blocks/rent/__subtitle/rent__subtitle.css);
 @import url(../blocks/title/_place/_rent/title_place_rent.css);
+@import url(../blocks/rent/__subscribe/rent__subscribe.css);
 
 @import url(../blocks/about/__image/about__image.css);
 @import url(../blocks/about/__subscribe/about__subscribe.css);
@@ -28,8 +29,10 @@
 @import url(../blocks/button/_place/_about/button_place_about.css);
 
 @import url(../blocks/benefit/benefit.css);
+@import url(../blocks/benefit/__cover/benefit__cover.css);
 @import url(../blocks/benefit/__image/benefit__image.css);
 @import url(../blocks/benefit/__item/benefit__item.css);
+@import url(../blocks/benefit/__item/_reverce/benefit__item_reverce.css);
 @import url(../blocks/benefit/__list/benefit__list.css);
 @import url(../blocks/benefit/__subscribe/benefit__subscribe.css);
 @import url(../blocks/title/_place/_benefit/title_place_benefit.css);

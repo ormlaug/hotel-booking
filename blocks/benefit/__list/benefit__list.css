@@ -1,0 +1,14 @@
+.benefit__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+@media screen and (max-width: 939px) {
+  .benefit__list {
+    gap: 40px;
+  }
+}

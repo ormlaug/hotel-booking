@@ -1,0 +1,13 @@
+.benefit__item {
+  display: flex;
+  flex-direction: row;
+  gap: 126px;
+}
+
+@media screen and (max-width: 939px) {
+  .benefit__item {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+}
