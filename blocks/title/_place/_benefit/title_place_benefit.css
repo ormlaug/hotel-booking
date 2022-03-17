@@ -1,0 +1,10 @@
+.title_place_benefit {
+  letter-spacing: -0.01em;
+  padding-top: 113px;
+}
+
+@media screen and (max-width: 939px) {
+  .title_place_benefit {
+    padding: 0;
+  }
+}

@@ -2,7 +2,6 @@
     font-size: 48px;
     line-height: 72px;
     letter-spacing: -0.01em;
-    max-width: 587px;
     padding-top: 135px;
     padding-bottom: 24px;
   }
@@ -10,12 +9,14 @@
   @media screen and (max-width: 939px) {
     .title_place_rent {
       padding-top: 20px;
+      max-width: 584px;
+      text-align: center;
     }
   }
   
   @media screen and (max-width: 767px) {
     .title_place_rent {
-      font-size: 32px;
+      font-size: 36px;
       line-height: 45px;
     }
   }

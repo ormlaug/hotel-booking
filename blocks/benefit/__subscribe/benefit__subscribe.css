@@ -1,0 +1,16 @@
+.benefit__subscribe {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1219px) {
+  .benefit__subscribe {
+    margin: 0 10px;
+  }
+}
+
+@media screen and (max-width: 939px) {
+  .benefit__subscribe {
+    align-items: center;
+  }
+}
