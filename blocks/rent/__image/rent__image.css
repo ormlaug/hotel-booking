@@ -7,5 +7,7 @@
 @media screen and (max-width: 939px) {
   .rent__image {
     max-width: 100%;
+    padding-top: 50px;
+    padding-bottom: 25px;
   }
 }

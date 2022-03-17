@@ -13,7 +13,9 @@
 
 @media screen and (max-width: 939px) {
   .rent {
-    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    gap: 10px;
   }
 }
 
