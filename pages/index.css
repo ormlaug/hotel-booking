@@ -14,10 +14,17 @@
 @import url(../blocks/header/__nav-links/header__nav-links.css);
 
 @import url(../blocks/rent/rent.css);
-@import url(../blocks/rent/__subtitle/rent__subtitle.css);
+@import url(../blocks/subtitle/_place/_rent/subtitle_place_rent.css);
 @import url(../blocks/rent/__image/rent__image.css);
 @import url(../blocks/rent/__subtitle/rent__subtitle.css);
-@import url(../blocks/rent/__title/rent__title.css);
+@import url(../blocks/title/_place/_rent/title_place_rent.css);
+
+@import url(../blocks/about/__image/about__image.css);
+@import url(../blocks/about/__subscribe/about__subscribe.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/title/_place/_about/title_place_about.css);
+@import url(../blocks/subtitle/_place/_about/subtitle_place_about.css);
+@import url(../blocks/button/_place/_about/button_place_about.css);
 
 @import url(../blocks/interiors/interiors.css);
 @import url(../blocks/title/_align/_center/title_align_center.css);

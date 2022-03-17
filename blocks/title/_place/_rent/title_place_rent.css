@@ -1,0 +1,23 @@
+.title_place_rent {
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: -0.01em;
+    max-width: 587px;
+    padding-top: 135px;
+    padding-bottom: 24px;
+  }
+  
+  @media screen and (max-width: 939px) {
+    .title_place_rent {
+      padding-top: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .title_place_rent {
+      font-size: 32px;
+      line-height: 45px;
+    }
+  }
+  
+}
