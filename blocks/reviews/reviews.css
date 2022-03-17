@@ -1,0 +1,7 @@
+.reviews {
+  margin: 160px auto 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}

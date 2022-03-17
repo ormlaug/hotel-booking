@@ -1,5 +1,8 @@
 .slider_place_interiors {
-  margin: -38px auto 0;
+  position: absolute;
+  bottom: 38px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 @media screen and (max-width:550px) {
