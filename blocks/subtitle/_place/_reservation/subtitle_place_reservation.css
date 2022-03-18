@@ -6,7 +6,7 @@
 
 @media screen and (max-width:750px) {
   .subtitle_place_reservation {
-    margin: 10px;
+    margin: 10px 20px;
     max-width: 403px;
     font-size: 21px;
   }

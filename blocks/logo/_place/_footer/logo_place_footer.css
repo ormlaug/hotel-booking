@@ -3,3 +3,11 @@
   font-weight: 700;
   color: white;
 }
+
+@media screen and (max-width:950px) {
+  .logo_place_footer {
+    padding-top: 30px;
+    font-size: 32px;
+    text-align: center;
+  }
+}

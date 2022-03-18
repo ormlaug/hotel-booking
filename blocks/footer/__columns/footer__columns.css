@@ -5,3 +5,22 @@
   display: flex;
   justify-content: space-between;
 }
+
+
+@media screen and (max-width:1280px) {
+  .footer__columns {
+    padding: 114px 20px;
+  }
+}
+
+@media screen and (max-width:950px) {
+  .footer__columns {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .footer__columns {
+    padding: 30px 20px;
+  }
+}

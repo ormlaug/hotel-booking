@@ -2,3 +2,9 @@
   margin: 80px auto 0;
   max-width: 1440px;
 }
+
+@media screen and (max-width:600px) {
+  .interiors {
+    margin: 30px auto 0;
+  }
+}

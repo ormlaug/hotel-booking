@@ -5,3 +5,13 @@
   line-height: 175%;
   color: #D9DBDE;
 }
+
+@media screen and (max-width:950px) {
+  .subtitle_place_footer {
+    margin: 30px auto;
+    max-width: 280px;
+    font-size: 24px;
+    text-align: center;
+
+  }
+}
