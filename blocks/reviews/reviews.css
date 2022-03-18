@@ -1,19 +1,15 @@
 .reviews {
-  margin: 160px auto 80px;
+  margin: 0 auto;
+  padding: 80px 0;
+  max-width: 793px;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
 }
 
-@media screen and (max-width:1280px) {
-  .reviews {
-    margin: 80px auto;
-  }
-}
-
 @media screen and (max-width:750px) {
   .reviews {
-    margin: 30px auto;
+    padding: 30px 0;
   }
 }
