@@ -1,4 +1,4 @@
-.interiors__main-item {
+.interiors__item_main {
   margin: 0;
   padding: 0;
   max-height: 585px;
@@ -7,14 +7,14 @@
 }
 
 @media screen and (max-width:1280px) {
-  .interiors__main-item {
+  .interiors__item_main {
     grid-column: 1 / 4;
   }
 }
 
 @media screen and (max-width:550px) {
-  .interiors__main-item {
+  .interiors__item_main {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
   }
-}
+} 

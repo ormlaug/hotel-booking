@@ -1,0 +1,5 @@
+.slider__dot_active {
+  width: 12px;
+  height: 12px;
+  background-color: #FAB047;
+}

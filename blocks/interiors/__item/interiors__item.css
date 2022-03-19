@@ -7,3 +7,10 @@
 .interiors__item:hover {
   opacity: 80%;
 }
+
+@media screen and (max-width:550px) {
+  .interiors__item {
+    max-height: 284px;
+  }
+}
+  
