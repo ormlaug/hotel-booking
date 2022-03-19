@@ -1,3 +1,9 @@
 .interiors__item {
   max-height: 193px;
+  transition: opacity .5s ease-in;
+  cursor: pointer;
+}
+
+.interiors__item:hover {
+  opacity: 80%;
 }
