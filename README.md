@@ -14,3 +14,7 @@
 * Организация элементов по методологии БЭМ
 * Файловая структура БЭМ Nested
 * Оптимизация шрифтов
+
+**Ссылка на GitHub Pages:**
+
+ https://ormlaug.github.io/hotel-booking/index.html
