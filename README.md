@@ -17,4 +17,4 @@
 
 **Ссылка на GitHub Pages:**
 
- https://ormlaug.github.io/hotel-booking/index.html
+ https://ormlaug.github.io/hotel-booking/
