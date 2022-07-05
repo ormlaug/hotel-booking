@@ -15,5 +15,11 @@
 * Файловая структура БЭМ Nested
 * Оптимизация шрифтов
 
+<<<<<<< HEAD
 # Ссылка на GitHub Pages:
 https://ormlaug.github.io/hotel-booking/
+=======
+**Ссылка на GitHub Pages:**
+
+ https://ormlaug.github.io/hotel-booking/
+>>>>>>> b24628b3bb000b08297071258ae45e01273592a2
